@@ -1,0 +1,10 @@
+button{
+  cursor: pointer;
+  text-decoration: line-through;
+}
+
+.check {
+   background: red; width: 10px; height: 10px; }
+a{
+  text-decoration: none;
+}
